@@ -50,7 +50,7 @@
               </div>
 
               <button class="btn btn-primary btn-lg btn-block" type="submit" style="background-color:#1C2120; color:white;">Login</button>
-              <a href="./register.php" class="btn btn-primary btn-lg btn-block" style="background-color:#94846E; color:white;" >Create an Account</a>
+              <a href="./user/register.php" class="btn btn-primary btn-lg btn-block" style="background-color:#94846E; color:white;" >Create an Account</a>
 
             </div>
           </div>
