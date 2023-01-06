@@ -1,3 +1,5 @@
+
+
 <!doctype html>
 <html lang="en">
 
@@ -20,8 +22,8 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
 </head>
 
-<body>
-  <section class="" style="background-color: #FFF7EC !important;">
+<body style="background-color: #FFF7EC !important;">
+  <section>
     <div class="container py-5 h-75">
       <div class="row d-flex justify-content-center align-items-center h-100">
         <div class="col-12 col-md-8 col-lg-6 col-xl-5">
@@ -48,8 +50,7 @@
               </div>
 
               <button class="btn btn-primary btn-lg btn-block" type="submit" style="background-color:#1C2120; color:white;">Login</button>
-              <button class="btn btn-primary btn-lg btn-block" type="submit" style="background-color:#94846E; color:white;">Create an Account</button>
-
+              <a href="./register.php" class="btn btn-primary btn-lg btn-block" style="background-color:#94846E; color:white;" >Create an Account</a>
 
             </div>
           </div>
